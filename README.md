@@ -4,13 +4,14 @@
 
 ---
 
-<h3 align="center">Olá, sou Rafael Menatto!</h3>
+<h1 align="center" style="font-size: 48px;">Olá, sou Rafael Menatto!</h1>
 
 <div align="center">
   <img align="right" alt="" height="190px" src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/src/edgerunners.gif">
 </div>
 
 ### Sobre mim
+
 
 Profissional de TI em transição para o desenvolvimento de software, com 5+ anos de experiência prática no setor de tecnologia.
 
