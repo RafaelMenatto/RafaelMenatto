@@ -12,11 +12,18 @@
 
 ### Sobre mim
 
-Possuo mais de cinco anos de experiência atuando de forma autônoma, adquirindo componentes, montando e revendendo computadores. Posteriormente, trabalhei com infraestrutura de TI, sendo responsável pela organização, manutenção e suporte de computadores.
+Profissional de TI em transição para o desenvolvimento de software, com 5+ anos de experiência prática no setor de tecnologia.
 
-Nesse período, também ministrei aulas de informática, o que contribuiu para o desenvolvimento das minhas habilidades técnicas e didáticas. Em seguida, atuei em uma empresa onde fui responsável pela organização completa do sistema e da infraestrutura de TI, incluindo computadores e rede.
+Minha trajetória começou no hardware: adquiri componentes, montei e revendi computadores de forma autônoma, o que me deu uma base sólida em como a tecnologia funciona "por baixo dos panos". Avancei para infraestrutura de TI e suporte, sendo responsável pela organização, manutenção e suporte de computadores e redes, além de ter ministrado aulas de informática — experiência que desenvolveu minha didática e comunicação técnica.
 
-Ao longo dessa trajetória, realizei diversos cursos e formações acadêmicas, por meio dos quais adquiri conhecimentos que atualmente estou estruturando e colocando em prática.
+Hoje estou me dedicando intensamente ao estudo de programação e Inteligência Artificial, estruturado minha base técnica com cursos e formações acadêmicas. Acredito que a combinação da minha experiência em infraestrutura com as novas habilidades em desenvolvimento me prepara para construir soluções completas, do hardware ao código.
+
+🛠️ Explorando: Python | JavaScript | HTML/CSS | Git | Inteligência Artificial
+💻 Base sólida: Hardware | Infraestrutura de TI | Redes | Suporte técnico
+
+🎯 Busco oportunidades em desenvolvimento de software onde eu possa continuar aprendendo e aplicar meu conhecimento em projetos reais. Sempre aberto a trocar ideias e colaborar!
+
+Vamos conversar? 🚀
 
 ---
 
