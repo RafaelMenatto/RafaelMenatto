@@ -53,7 +53,14 @@ Vamos conversar? 🚀
   </a>
 </p>
 
+<div align="center">
+  <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/src/web.jpg" alt="Meu Portfólio WEB" width="480" />
+  </a>
+</div>
+
 ---
+
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
@@ -74,4 +81,3 @@ Vamos conversar? 🚀
 <div align="center">
   <em>"O código é como humor: quando você precisa explicar, é porque não era bom."</em> — Cory House
 </div>
-https://portfolio-six-nu-xquu7b7ozz.vercel.app/
