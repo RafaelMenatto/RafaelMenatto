@@ -50,8 +50,8 @@ Ao longo dessa trajetória, realizei diversos cursos e formações acadêmicas, 
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=RafaelMenatto&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
-  <img alt="GitHub Top Languages" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=RafaelMenatto&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=RafaelMenatto&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&border_radius=20&custom_title=My%20GitHub%20Statistics" />
+  <img alt="GitHub Top Languages" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=RafaelMenatto&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&border_radius=20" />
 </div>
 
 <p align="center">
@@ -67,3 +67,4 @@ Ao longo dessa trajetória, realizei diversos cursos e formações acadêmicas, 
 <div align="center">
   <em>"O código é como humor: quando você precisa explicar, é porque não era bom."</em> — Cory House
 </div>
+
