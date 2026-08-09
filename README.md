@@ -52,7 +52,7 @@ Vamos conversar? 🚀
     <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/github-badge.svg" alt="GitHub" />
   </a>
   <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/web.jpg" alt="Portfólio WEB" width="28" height="28" style="border-radius: 14px;" />
+    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/web-badge.svg" alt="WEB" />
   </a>
 </p>
 
