@@ -20,9 +20,9 @@ Ao longo dessa trajetória, realizei diversos cursos e formações acadêmicas, 
 
 ---
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="center">My Stack ~</h3>
 
-<p align="left">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -34,9 +34,9 @@ Ao longo dessa trajetória, realizei diversos cursos e formações acadêmicas, 
 
 ---
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="center">Connect with me!</h3>
 
-<p align="left">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <a href="https://www.linkedin.com/in/rafael-menatto" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -47,12 +47,12 @@ Ao longo dessa trajetória, realizei diversos cursos e formações acadêmicas, 
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
-<p align="left">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=RafaelMenatto&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
   <img alt="GitHub Top Languages" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=RafaelMenatto&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
-</p>
+</div>
 
 <p align="center">
   <picture>
@@ -61,3 +61,9 @@ Ao longo dessa trajetória, realizei diversos cursos e formações acadêmicas, 
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+---
+
+<div align="center">
+  <em>"O código é como humor: quando você precisa explicar, é porque não era bom."</em> — Cory House
+</div>
