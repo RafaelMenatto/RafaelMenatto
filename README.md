@@ -51,13 +51,10 @@ Vamos conversar? 🚀
   <a href="https://github.com/RafaelMenatto" target="_blank">
     <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/github-badge.svg" alt="GitHub" />
   </a>
-</p>
-
-<div align="center">
   <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/src/web.jpg" alt="Meu Portfólio WEB" width="480" />
+    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/web.jpg" alt="Portfólio WEB" width="28" height="28" style="border-radius: 14px;" />
   </a>
-</div>
+</p>
 
 ---
 
