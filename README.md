@@ -38,10 +38,10 @@ Ao longo dessa trajetória, realizei diversos cursos e formações acadêmicas, 
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <a href="https://www.linkedin.com/in/rafael-menatto" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/linkedin-badge.svg" alt="LinkedIn" />
   </a>
   <a href="https://github.com/RafaelMenatto" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/github-badge.svg" alt="GitHub" />
   </a>
 </p>
 
@@ -67,4 +67,3 @@ Ao longo dessa trajetória, realizei diversos cursos e formações acadêmicas, 
 <div align="center">
   <em>"O código é como humor: quando você precisa explicar, é porque não era bom."</em> — Cory House
 </div>
-
