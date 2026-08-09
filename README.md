@@ -54,7 +54,6 @@ Vamos conversar? 🚀
 </p>
 
 ---
-
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
@@ -75,3 +74,4 @@ Vamos conversar? 🚀
 <div align="center">
   <em>"O código é como humor: quando você precisa explicar, é porque não era bom."</em> — Cory House
 </div>
+https://portfolio-six-nu-xquu7b7ozz.vercel.app/
