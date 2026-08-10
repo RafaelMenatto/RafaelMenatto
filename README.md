@@ -30,38 +30,22 @@ Vamos conversar? 🚀
 
 <h3 align="center">My Stack ~</h3>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  </a>
-  <a href="https://docs.python.org/pt-br/3/" target="_blank">
-    <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  </a>
-  <a href="https://git-scm.com/book/pt-br" target="_blank">
-    <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  </a>
+<p align="center">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://docs.python.org/pt-br/3/" target="_blank"><img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+  <a href="https://git-scm.com/book/pt-br" target="_blank"><img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 </p>
 
 ---
 
 <h3 align="center">Connect with me!</h3>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <a href="https://www.linkedin.com/in/rafael-menatto" target="_blank">
-    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/linkedin-badge.svg" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/RafaelMenatto" target="_blank">
-    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/github-badge.svg" alt="GitHub" />
-  </a>
-  <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/web-badge.svg" alt="WEB" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-menatto" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/linkedin-badge.svg" alt="LinkedIn" /></a>
+  <a href="https://github.com/RafaelMenatto" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/github-badge.svg" alt="GitHub" /></a>
+  <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/web-badge.svg" alt="WEB" /></a>
 </p>
 
 ---
