@@ -43,9 +43,9 @@ Vamos conversar? 🚀
 <h3 align="center">Connect with me!</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-menatto" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/linkedin-badge.svg" alt="LinkedIn" /></a>
-  <a href="https://github.com/RafaelMenatto" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/github-badge.svg" alt="GitHub" /></a>
-  <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/web-badge.svg" alt="WEB" /></a>
+  <a href="https://www.linkedin.com/in/rafael-menatto" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/linkedin-badge.svg" alt="LinkedIn" /></a>
+  <a href="https://github.com/RafaelMenatto" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/github-badge.svg" alt="GitHub" /></a>
+  <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/web-badge.svg" alt="WEB" /></a>
 </p>
 
 ---
