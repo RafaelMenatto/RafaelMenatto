@@ -24,7 +24,13 @@ Hoje estou me dedicando intensamente ao estudo de programação e Inteligência 
 
 🎯 Busco oportunidades em desenvolvimento de software onde eu possa continuar aprendendo e aplicar meu conhecimento em projetos reais. Sempre aberto a trocar ideias e colaborar!
 
-Vamos conversar? 🚀
+<a href="https://wa.me/5519996319995" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/whatsapp-badge-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/whatsapp-badge-light.svg">
+    <img align="center" alt="Vamos conversar?" src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/whatsapp-badge-light.svg">
+  </picture>
+</a>
 
 ---
 
