@@ -5,7 +5,8 @@
 ---
 
 <h1 align="center" style="font-size: 48px;">Olá, sou Rafael Menatto!</h1>
-<img width="1434" height="933" alt="image" src="https://github.com/user-attachments/assets/c999ef4b-6d00-4065-adc9-659cc8e9913b" />
+<img width="1393" height="889" alt="image" src="https://github.com/user-attachments/assets/f2ddc1da-4cf8-4b35-8648-878da9f3b1f7" />
+
 
 
 <div align="center">
