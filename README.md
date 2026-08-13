@@ -5,32 +5,12 @@
 ---
 
 <h1 align="center" style="font-size: 48px;">Olá, sou Rafael Menatto!</h1>
+<img width="1434" height="933" alt="image" src="https://github.com/user-attachments/assets/c999ef4b-6d00-4065-adc9-659cc8e9913b" />
+
 
 <div align="center">
   <img align="right" alt="" height="190px" src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/src/edgerunners.gif">
 </div>
-
-### Sobre mim
-
-
-Profissional de TI em transição para o desenvolvimento de software, com 5+ anos de experiência prática no setor de tecnologia.
-
-Minha trajetória começou no hardware: adquiri componentes, montei e revendi computadores de forma autônoma, o que me deu uma base sólida em como a tecnologia funciona "por baixo dos panos". Avancei para infraestrutura de TI e suporte, sendo responsável pela organização, manutenção e suporte de computadores e redes, além de ter ministrado aulas de informática — experiência que desenvolveu minha didática e comunicação técnica.
-
-Hoje estou me dedicando intensamente ao estudo de programação e Inteligência Artificial, estruturado minha base técnica com cursos e formações acadêmicas. Acredito que a combinação da minha experiência em infraestrutura com as novas habilidades em desenvolvimento me prepara para construir soluções completas, do hardware ao código.
-
-🛠️ Explorando: Python | JavaScript | HTML/CSS | Git | Inteligência Artificial
-💻 Base sólida: Hardware | Infraestrutura de TI | Redes | Suporte técnico
-
-🎯 Busco oportunidades em desenvolvimento de software onde eu possa continuar aprendendo e aplicar meu conhecimento em projetos reais. Sempre aberto a trocar ideias e colaborar!
-
-<a href="https://wa.me/5519996319995" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/whatsapp-badge-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/whatsapp-badge-light.svg">
-    <img align="center" alt="Vamos conversar?" src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/whatsapp-badge-light.svg">
-  </picture>
-</a>
 
 ---
 
