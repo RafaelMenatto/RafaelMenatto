@@ -14,7 +14,7 @@
 
 ---
 
-### <p align="center">My Stack ~</p>
+### <p align="center">My Stack </p>
 
 <p align="center">
   <a href="https://numero-kappa.vercel.app/"><img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
