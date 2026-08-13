@@ -39,8 +39,8 @@
 ### <p align="center">GitHub Stats</p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img alt="GitHub Stats" width="467" height="150" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=RafaelMenatto&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs,prs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&border_radius=20&custom_title=My%20GitHub%20Statistics" />
-  <img alt="GitHub Top Languages" width="467" height="150" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=RafaelMenatto&layout=compact&card_width=467&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&border_radius=20" />
+  <picture><img alt="GitHub Stats" width="467" height="150" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=RafaelMenatto&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs,prs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&border_radius=20&custom_title=My%20GitHub%20Statistics" style="pointer-events: none;" /></picture>
+  <picture><img alt="GitHub Top Languages" width="467" height="150" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=RafaelMenatto&layout=compact&card_width=467&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&border_radius=20" style="pointer-events: none;" /></picture>
 </div>
 
 <p align="center">
