@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-menatto"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/linkedin-badge.svg" alt="LinkedIn" /></a>
-  <a href="https://github.com/RafaelMenatto"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/github-badge.svg" alt="GitHub" /></a>
+  <a href="https://github.com/RafaelMenatto?tab=repositories"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/github-badge.svg" alt="GitHub" /></a>
   <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/web-badge.svg" alt="WEB" /></a>
 </p>
 
