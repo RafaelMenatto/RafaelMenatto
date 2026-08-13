@@ -4,40 +4,39 @@
 
 ---
 
-<h1 align="center" style="font-size: 48px;">Olá, sou Rafael Menatto!</h1>
-<img width="1393" height="889" alt="image" src="https://github.com/user-attachments/assets/f2ddc1da-4cf8-4b35-8648-878da9f3b1f7" />
+# <p align="center">Olá, sou Rafael Menatto!</p>
 
-
+![image](https://github.com/user-attachments/assets/f2ddc1da-4cf8-4b35-8648-878da9f3b1f7)
 
 <div align="center">
-  <img align="right" alt="" height="190px" src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/src/edgerunners.gif">
+  <img align="right" alt="Edgerunners GIF" height="190px" src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/src/edgerunners.gif">
 </div>
 
 ---
 
-<h3 align="center">My Stack ~</h3>
+### <p align="center">My Stack ~</p>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://docs.python.org/pt-br/3/" target="_blank"><img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-  <a href="https://git-scm.com/book/pt-br" target="_blank"><img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
+  <a href="https://numero-kappa.vercel.app/"><img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://dados-python-ngrgtffqptdt8v6zqp9sbr.streamlit.app/"><img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+  <a href="https://git-scm.com/book/pt-br/v2/Come%c3%a7ando-Uma-Breve-Hist%c3%b3ria-do-Git"><img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 </p>
 
 ---
 
-<h3 align="center">Connect with me!</h3>
+### <p align="center">Connect with me!</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-menatto" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/linkedin-badge.svg" alt="LinkedIn" /></a>
-  <a href="https://github.com/RafaelMenatto" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/github-badge.svg" alt="GitHub" /></a>
-  <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/web-badge.svg" alt="WEB" /></a>
+  <a href="https://www.linkedin.com/in/rafael-menatto"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/linkedin-badge.svg" alt="LinkedIn" /></a>
+  <a href="https://github.com/RafaelMenatto"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/github-badge.svg" alt="GitHub" /></a>
+  <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/web-badge.svg" alt="WEB" /></a>
 </p>
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+### <p align="center">GitHub Stats</p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img alt="GitHub Stats" width="467" height="150" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=RafaelMenatto&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs,prs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&border_radius=20&custom_title=My%20GitHub%20Statistics" />
