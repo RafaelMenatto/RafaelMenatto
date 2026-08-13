@@ -17,11 +17,11 @@
 ### <p align="center">My Stack </p>
 
 <p align="center">
-  <a href="https://numero-kappa.vercel.app/"><img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://dados-python-ngrgtffqptdt8v6zqp9sbr.streamlit.app/"><img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-  <a href="https://git-scm.com/book/pt-br/v2/Come%c3%a7ando-Uma-Breve-Hist%c3%b3ria-do-Git"><img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
+  <a href="https://numero-kappa.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://dados-python-ngrgtffqptdt8v6zqp9sbr.streamlit.app/" target="_blank" rel="noopener noreferrer"><img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+  <a href="https://git-scm.com/book/pt-br/v2/Come%c3%a7ando-Uma-Breve-Hist%c3%b3ria-do-Git" target="_blank" rel="noopener noreferrer"><img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 </p>
 
 ---
@@ -29,9 +29,9 @@
 ### <p align="center">Connect with me!</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafael-menatto"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/linkedin-badge.svg" alt="LinkedIn" /></a>
-  <a href="https://github.com/RafaelMenatto?tab=repositories"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/github-badge.svg" alt="GitHub" /></a>
-  <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/web-badge.svg" alt="WEB" /></a>
+  <a href="https://www.linkedin.com/in/rafael-menatto" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/linkedin-badge.svg" alt="LinkedIn" /></a>
+  <a href="https://github.com/RafaelMenatto?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/github-badge.svg" alt="GitHub" /></a>
+  <a href="https://portfolio-six-nu-xquu7b7ozz.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/web-badge.svg" alt="WEB" /></a>
 </p>
 
 ---
