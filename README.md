@@ -21,7 +21,7 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
   <a href="https://ingresso-kohl-nu.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
   <a href="https://dados-python-ngrgtffqptdt8v6zqp9sbr.streamlit.app/" target="_blank" rel="noopener noreferrer"><img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-  <a href="https://git-scm.com/book/pt-br/v2/Come%c3%a7ando-Uma-Breve-Hist%c3%b3ria-do-Git" target="_blank" rel="noopener noreferrer"><img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
+  <a href="https://git-scm.com/about" target="_blank" rel="noopener noreferrer"><img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 </p>
 
 ---
