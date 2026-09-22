@@ -6,15 +6,11 @@
 
 # <p align="center">Olá, sou Rafael Menatto!</p>
 
-![image](https://github.com/user-attachments/assets/f2ddc1da-4cf8-4b35-8648-878da9f3b1f7)
-
-<div align="center">
-  <img align="right" alt="Edgerunners GIF" height="190px" src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/src/edgerunners.gif">
-</div>
+<img alt="Banner" src="midia.src/img.png">
 
 ---
 
-### <p align="center">My Stack </p>
+### <div align="center">My Stack</div>
 
 <p align="center">
   <a href="https://treino-raciocinio-logico.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
@@ -26,7 +22,7 @@
 
 ---
 
-### <p align="center">Connect with me!</p>
+### <div align="center">Connect with me!</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-menatto" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/RafaelMenatto/RafaelMenatto/main/midia.src/linkedin-badge.svg" alt="LinkedIn" /></a>
@@ -36,7 +32,7 @@
 
 ---
 
-### <p align="center">GitHub Stats</p>
+### <div align="center">GitHub Stats</div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <picture><img alt="GitHub Stats" width="467" height="150" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=RafaelMenatto&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs,prs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&border_radius=20&custom_title=My%20GitHub%20Statistics" style="pointer-events: none;" /></picture>
